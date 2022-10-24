@@ -23,6 +23,6 @@ sudo reboot
 ```shell
 sudo reboot
 ```
-Right click the disk icon in the dock on click Eject
+Right click the disk icon in the dock and click Eject
 
-![Right click the disk icon in the dock on click Eject](right-click-the-disk-icon-in-the-dock-and-click-eject.png)
+![Right click the disk icon in the dock and click Eject](right-click-the-disk-icon-in-the-dock-and-click-eject.png)
