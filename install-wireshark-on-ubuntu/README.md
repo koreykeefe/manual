@@ -4,9 +4,9 @@
 sudo apt install -y wireshark
 ```
 
-Select YES
+Select Yes
 
-![Select YES](select-yes.png)
+![Select Yes](select-yes.png)
 
 > If not prompted to configure Wireshark in the previous step
 > 
