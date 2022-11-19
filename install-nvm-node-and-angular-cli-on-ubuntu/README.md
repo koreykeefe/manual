@@ -9,23 +9,13 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | b
 ```
 
 ```shell
-nvm install node
-```
-
-```shell
-nvm use node
+nvm install --lts
 ```
 
 > To install a specific version of Node
 > 
 > ```shell
-> nvm install version
-> ```
-
-> To use a specific version of Node
-> 
-> ```shell
-> nvm use version
+> nvm install <version>
 > ```
 
 ```shell
