@@ -1,6 +1,6 @@
 # Setting up a Ruby Environment on Ubuntu using rbenv
 
-Tested and working as of 2/17/2022 on Ubuntu 22.04.1.
+Tested and working as of 2/17/2023 on Ubuntu 22.04.1.
 
 1. Update package information.
     
