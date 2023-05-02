@@ -49,16 +49,16 @@ Remember the IP address as you will need it to configure Proxmox later.
 2.	Go to https://<IP_address>:8006/. Change this to the IP address you assigned to ProxmoxVE.
 3.	Login.  
 *The default administrator account username is root.*  
-![Login Screen]()
+![Login Screen](https://github.com/koreykeefe/manual/blob/main/install-proxmox/login.png)
 4.	Click “OK” on the subscription dialog.
 5.	To create a VM, you need an OS ISO. Go to your Proxmox management server partition and click “ISO Images”.
-![ISO Images List Screen]()
+![ISO Images List Screen](https://github.com/koreykeefe/manual/blob/main/install-proxmox/iso.png)
 6.	Either upload an ISO file or download one form a URL.  
 *This is the URL for Ubuntu 22.04.2 Server: https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-live-server-amd64.iso?_ga=2.202918553.968848564.1677641201-1357489668.1674965353*
 7.	Click “Create VM” in the top right.
 8.	Configure your VM with your desired settings.
-9.	Connect to the VM by clicking console.
-![VM Console Screen]()
+9.	Connect to the VM by clicking console.  
+![VM Console Screen](https://github.com/koreykeefe/manual/blob/main/install-proxmox/console.png)
 
 In conclusion, Proxmox Virtual Environment is an excellent choice for organizations looking to improve their virtualization capabilities. With its user-friendly interface, advanced features, and open-source license, Proxmox provides a flexible and cost-effective virtualization platform. By following the steps outlined in this guide, you can set up Proxmox, create virtual machines, and optimize your virtual infrastructure quickly and easily. Whether you're new to Proxmox or looking to improve your existing setup, this guide has everything you need to get started.
 
